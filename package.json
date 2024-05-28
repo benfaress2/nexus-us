@@ -19,14 +19,14 @@
     "whatsapp",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/Tiooxy/Tixo-md",
+  "homepage": "https://github.com/idrissnet/nexus-md",
   "author": "Tio",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tiooxy/Tixo-md.git"
+    "url": "git+https://github.com/idrissnet/nexus-us.git"
   },
   "bugs": {
-    "url": "https://github.com/Tiooxy/Tixo-md/issues"
+    "url": ""
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -39,8 +39,6 @@
     "chalk": "^5.0.1",
     "cheerio": "^1.0.0-rc.12",
     "colors": "1.4.0",
-    "crypto": "9.1",
-    "jsdom": "9.8",
     "form-data": "1.3",
     "jimp": "2.4",
     "fs": "2.1",
@@ -63,8 +61,6 @@
     "mongoose": "^7.0.0",
     "node-cache": "*",
     "yt-search": "1.3",
-    "ytdl-core": "9.1",
-    "node-fetch": "*",
     "node-os-utils": "^1.3.6",
     "perf_hooks": "^0.0.1",
     "performance-now": "^2.1.0",
